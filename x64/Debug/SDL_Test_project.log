@@ -1,0 +1,3 @@
+﻿  Core.cpp
+D:\Docs\Code\SDL_Test_project\Core.cpp(106,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  SDL_Test_project.vcxproj -> D:\Docs\Code\SDL_Test_project\x64\Debug\SDL_Test_project.exe
